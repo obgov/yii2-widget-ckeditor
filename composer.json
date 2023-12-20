@@ -1,6 +1,7 @@
 {
     "name": "skeeks/yii2-widget-ckeditor",
     "description": "CKEditor widget for Yii2.",
+    "version": "1.0.0",
     "keywords": [
         "yii",
         "extension",

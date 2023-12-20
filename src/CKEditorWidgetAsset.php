@@ -18,13 +18,13 @@ use yii\web\AssetBundle;
  */
 class CKEditorWidgetAsset extends AssetBundle
 {
-	public $sourcePath = '@vendor/obgov/yii2-widget-ckeditor/assets';
+    public $sourcePath = '@vendor/skeeks/yii2-widget-ckeditor/assets';
 
-	public $depends = [
-		'obgov\widget\ckeditor\CKEditorAsset'
-	];
+    public $depends = [
+        'skeeks\widget\ckeditor\CKEditorAsset'
+    ];
 
-	public $js = [
-		'js/skeeks-ckeditor.widget.js'
-	];
+    public $js = [
+        'js/skeeks-ckeditor.widget.js'
+    ];
 } 

@@ -21,7 +21,7 @@
         }
     ],
     "require": {
-        "ckeditor/ckeditor": ">=4.4.7",
+        "ckeditor/ckeditor": "4.22.1",
         "yiisoft/yii2": "^2.0.11"
     },
     "autoload": {

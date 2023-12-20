@@ -8,7 +8,7 @@
  * @date 27.10.2014
  * @since 1.0.0
  */
-namespace skeeks\widget\ckeditor;
+namespace obgov\widget\ckeditor;
 
 use yii\base\Widget;
 use yii\helpers\Html;

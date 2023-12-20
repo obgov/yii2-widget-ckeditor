@@ -8,7 +8,7 @@
  * @date 27.10.2014
  * @since 1.0.0
  */
-namespace skeeks\widget\ckeditor;
+namespace obgov\widget\ckeditor;
 
 use yii\web\AssetBundle;
 
@@ -18,10 +18,10 @@ use yii\web\AssetBundle;
  */
 class CKEditorWidgetAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/obgov/yii2-widget-ckeditor/src/assets';
+    public $sourcePath = '@vendor/obgov/yii2-widget-ckeditor/assets';
 
     public $depends = [
-        'skeeks\widget\ckeditor\CKEditorAsset'
+        'obgov\widget\ckeditor\CKEditorAsset'
     ];
 
     public $js = [
